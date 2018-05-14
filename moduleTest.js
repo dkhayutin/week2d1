@@ -1,4 +1,4 @@
-var getHTML = require('./https-function');
+var getHTML = require('./https-functions');
 
 function printHTML (html) {
   console.log(html)

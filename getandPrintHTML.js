@@ -19,10 +19,10 @@ https.get(requestOptions, function(response) {
  })
 
 
-response.on('end', function() {
-console.log('Respone Stream Complete');
-
-  });
+// response.on('end', function() {
+// console.log('Respone Stream Complete');
+//
+//   });
 });
 }
 getAndPrintHTML()

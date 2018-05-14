@@ -11,7 +11,7 @@ https.get(options, function(response) {
 
   var newData = []
   newData += html;
-  console.log(html )
+  console.log(html)
   });
   });
 }
